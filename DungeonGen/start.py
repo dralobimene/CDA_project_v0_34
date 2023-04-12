@@ -3,22 +3,12 @@
 import sys
 import pygame
 import random
-import noise
 import os
-import psutil
-import time
-import string
-import math
 from datetime import datetime
 import json
-import cairosvg
 
 from bsp.bsp_moj import dungeon
-from classes.Room import room
-from bsp.bsp_moj import leaf
-from Save.Save01 import Save01
 import utilitaires
-from classes.Player import Player
 from classes.Item import Item
 from classes.NPC import NPC
 
@@ -26,11 +16,7 @@ from classes.NPC import NPC
 from classes.Item import print_item_instances
 
 from pygame.locals import *
-from itertools import cycle
-from functools import wraps
 
-
-clear = lambda: os.system('cls')
 
 # definit° de constantes
 
@@ -215,18 +201,22 @@ def generate_dungeon():
     print("")
     """
 
+    """
     # ecrit le contenu de content_pixels_rooms ds 1 fichier numpy
     utilitaires.write_binary_file(content_pixels_rooms,
                                   str(LES_ARRAY) +
                                   "/file_level_" +
                                   str(generate_dungeon.count) + ".npy")
     """
+
+    """
     #
     print("")
     print("sortie console: contenu du fichier qui doit contenir")
     print("file_level_1.npy")
-    """
+
     utilitaires.load_and_display_npy("Save/saveGAME/save_array/file_level_1.npy")
+    """
 
     # stocke chaque tuple de pixels de chaque corridor de ce stair
     # les pixels des corridors st de couleur jaune
@@ -240,18 +230,22 @@ def generate_dungeon():
     print("")
     """
 
+    """
     # ecrit le contenu de content_pixels_corridors ds 1 fichier numpy
     utilitaires.write_binary_file(content_pixels_corridors,
                                   str(LES_ARRAY) +
                                   "/file_level_" +
                                   str(generate_dungeon.count + 1) + ".npy")
     """
+
+    """
     #
     print("")
     print("sortie console: contenu du fichier qui doit contenir")
     print("file_level_2.npy")
-    """
+
     utilitaires.load_and_display_npy("Save/saveGAME/save_array/file_level_2.npy")
+    """
 
     """
     #
