@@ -16,13 +16,13 @@ Déploiement:
 librairies additionnelles nécessaires.
 - Se placer ds le repertoire qui contient le script shell pip_install.
 Executer le fichier shell pip_install par la commande suivante:<br>
-    ./pip_install
+    ./pip_install<br>
 - Effacer le fichier DungeonGen/Save/saveGAME/test/corridors.json
 si ce dernier existe.
-Il faut effacer ce fichier a que execution du fichier start.py  
+Il faut effacer ce fichier a chaque execution du fichier start.py  
 
 
 Exécuter le générateur de dongeons.
 Se placer ds le répertoire DungeonGen.
 Executer le fichier start.py par la commande suivante:<br>
-    python3 start.py
+    python3 start.py<br>
