@@ -23,6 +23,3 @@ creer 1 systeme de deplacement du joueur avec
 
 06
 implémenter 1 pathFinder
-
-07
-test
