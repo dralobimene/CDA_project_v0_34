@@ -2,11 +2,7 @@
 
 import random
 import time
-from datetime import datetime
-from utilitaires import generate_random_string
 
-
-# from itertools import chain
 
 # import sys
 from classes.Room import room
