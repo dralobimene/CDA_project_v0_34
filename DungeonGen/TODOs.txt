@@ -1,0 +1,27 @@
+TODO
+
+01
+ecrire le fichier Save/saveGAME/test/corridors.json
+ds le fichier
+Save/saveGAME/save_json/file_level_1.json
+
+03
+reparer et continuer le systeme des corridors
+qd je clique sur 1 corridor, qques x, je n'ai
+pas de nom qui s'affiche.
+Qques x, j'ai plusieurs noms de corridors pr 1 meme
+pixel. A REPARER
+
+04
+le fichier Save/saveGAME/test/corridors.json
+concatene son contenu a chaque lancement de
+start.py. A REPARER
+
+05
+creer 1 systeme de deplacement du joueur avec
+1 parametre vélocité
+
+06
+implémenter 1 pathFinder
+
+07

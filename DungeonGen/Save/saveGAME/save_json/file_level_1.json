@@ -1,0 +1,160 @@
+{
+    "stair_name": "dFnuY8S4zQauPYbKk1oP",
+    "stair_date_generation": "2023-04-12_11-35-25",
+    "rooms": {
+        "Room_1": {
+            "name": "Room_1",
+            "x": 8,
+            "y": 32,
+            "width": 40,
+            "height": 97,
+            "center": [
+                49,
+                82
+            ]
+        },
+        "Room_2": {
+            "name": "Room_2",
+            "x": 124,
+            "y": 58,
+            "width": 65,
+            "height": 95,
+            "center": [
+                145,
+                82
+            ]
+        },
+        "Room_3": {
+            "name": "Room_3",
+            "x": 30,
+            "y": 208,
+            "width": 128,
+            "height": 78,
+            "center": [
+                96,
+                235
+            ]
+        },
+        "Room_4": {
+            "name": "Room_4",
+            "x": 255,
+            "y": 30,
+            "width": 106,
+            "height": 119,
+            "center": [
+                286,
+                80
+            ]
+        },
+        "Room_5": {
+            "name": "Room_5",
+            "x": 228,
+            "y": 192,
+            "width": 123,
+            "height": 111,
+            "center": [
+                286,
+                232
+            ]
+        },
+        "Room_6": {
+            "name": "Room_6",
+            "x": 400,
+            "y": 5,
+            "width": 68,
+            "height": 44,
+            "center": [
+                425,
+                68
+            ]
+        },
+        "Room_7": {
+            "name": "Room_7",
+            "x": 383,
+            "y": 143,
+            "width": 52,
+            "height": 98,
+            "center": [
+                425,
+                221
+            ]
+        },
+        "Room_8": {
+            "name": "Room_8",
+            "x": 492,
+            "y": 9,
+            "width": 67,
+            "height": 89,
+            "center": [
+                520,
+                76
+            ]
+        },
+        "Room_9": {
+            "name": "Room_9",
+            "x": 494,
+            "y": 173,
+            "width": 44,
+            "height": 125,
+            "center": [
+                520,
+                228
+            ]
+        },
+        "Room_10": {
+            "name": "Room_10",
+            "x": 585,
+            "y": 19,
+            "width": 98,
+            "height": 107,
+            "center": [
+                685,
+                74
+            ]
+        },
+        "Room_11": {
+            "name": "Room_11",
+            "x": 599,
+            "y": 180,
+            "width": 54,
+            "height": 57,
+            "center": [
+                625,
+                226
+            ]
+        },
+        "Room_12": {
+            "name": "Room_12",
+            "x": 685,
+            "y": 164,
+            "width": 93,
+            "height": 112,
+            "center": [
+                740,
+                226
+            ]
+        },
+        "Room_13": {
+            "name": "Room_13",
+            "x": 101,
+            "y": 321,
+            "width": 402,
+            "height": 87,
+            "center": [
+                400,
+                376
+            ]
+        },
+        "Room_14": {
+            "name": "Room_14",
+            "x": 92,
+            "y": 492,
+            "width": 638,
+            "height": 72,
+            "center": [
+                400,
+                523
+            ]
+        }
+    }
+}
