@@ -1,7 +1,0 @@
-F12	screenshot & store png
-F11	draw new dungeon
-F10	save the game
-F9	create new canvas over the existing
-F8	read fileToSaveGame.json
-F7	implemented, no action
-
