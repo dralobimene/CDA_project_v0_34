@@ -15,7 +15,7 @@ Déploiement:
 - Facultatif: creer et executer 1 environnement virtuel pour installer les
 librairies additionnelles nécessaires.
 - Se placer ds le repertoire qui contient le script shell pip_install.
-Executer le fichier shell pip_install par la commande suivante:  
+Executer le fichier shell pip_install par la commande suivante:<br>
     ./pip_install
 - Effacer le fichier DungeonGen/Save/saveGAME/test/corridors.json
 si ce dernier existe.
@@ -24,5 +24,5 @@ Il faut effacer ce fichier a que execution du fichier start.py
 
 Exécuter le générateur de dongeons.
 Se placer ds le répertoire DungeonGen.
-Executer le fichier start.py par la commande suivante:
+Executer le fichier start.py par la commande suivante:<br>
     python3 start.py
