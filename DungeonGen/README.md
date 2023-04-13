@@ -85,7 +85,7 @@ du donjon).
 A chaque pression d'1 touche directionnelle, on verifie la couleur des
 prochains pixels qui st dans la continuité de cette direction.
     - pixel rouge, on reste ds la salle, le deplacement est effectué.
-    - pixel jaune, on passe ds 1 corridor, le delacement est effectué.
+    - pixel jaune, on passe ds 1 corridor, le deplacement est effectué.
     - pixel blanc, on sort du donjon, le deplacement n'est pas effectué.
 
 Le joueur est placé aléatoirement au centre d'1 pièce.
